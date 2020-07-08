@@ -28,8 +28,3 @@ def printer(speakers)
     puts assignment
   end
 end
-
-
-assign_rooms(["Dan", "Sam", "Bree"])
-
-
